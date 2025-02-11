@@ -1,6 +1,6 @@
 # VibrationPattern
 Software and hardware for the onboard point-wise vibration pattern production  
-(For the manuscript "Point-Wise Vibration Pattern Production via a Sparse Actuator Array for Surface Tactile Feedback" submitted to ICRA 2024,  
+(For the manuscript "Point-Wise Vibration Pattern Production via a Sparse Actuator Array for Surface Tactile Feedback" published on ICRA 2024,  
 https://ieeexplore.ieee.org/document/10611362.)  
 
 hardware: voltage drive circuit board of the sparse actuator array. 
